@@ -1,4 +1,4 @@
 # git-demo
 this is my first git repository
 <br>
-author - Akshay Kumar
+author - Akshay Kumar choudhary
